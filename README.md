@@ -1,24 +1,18 @@
-##  DevRel Campaign Strategy Template
+##  DevRel Campaign: Drive awareness of DevRel Campaign Strategy Template
 
-Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach & CEO of [Devocate](https://learn.devocate.com/). Please fork this repo and create your own version a DevRel Campaign. Then share what you've created in the discussions here in this repo. DevRel needs more knowledge sharing.
+Leveraging the template we're trying to drive awareness of, to draft our own DevRel campaign to drive awareness of the DevRel Campaign Strategy Template we shared. Very meta, huh?
 
 <table>
   <tr>
    <td><strong>Driver</strong>
    </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Approver</strong>
-   </td>
-   <td>
+   <td>Tessa Kriesel
    </td>
   </tr>
   <tr>
    <td><strong>Contributor</strong>
    </td>
-   <td>
+   <td>Community Manager
    </td>
   </tr>
   <tr>
@@ -30,56 +24,56 @@ Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach 
   <tr>
    <td><strong>Campaign Name</strong>
    </td>
-   <td>
+   <td>Drive awareness of DevRel Campaign Template
    </td>
   </tr>
   <tr>
    <td><strong>Campaign Type</strong>
    </td>
-   <td>
+   <td>Awareness
    </td>
   </tr>
   <tr>
    <td><strong>Dates</strong>
    </td>
-   <td>
+   <td>12/13/2021 - 03/31/2022
    </td>
   </tr>
   <tr>
    <td><strong>Status</strong>
    </td>
-   <td>
+   <td>On Track
    </td>
   </tr>
 </table>
 
 
 
-### Strategy
+## Strategy
 
 
-#### Objective
+### Objective
 
 
-##### Problem Statement
+#### Problem Statement
 
 _What is the problem this campaign is going to solve?_
 
 
-##### Research Insights
+#### Research Insights
 
 _What research insights have you captured? Research happens both internally and externally._
 
 
-##### Solution Hypothesis
+#### Solution Hypothesis
 
 _What deliverables or results can solve the problem statement?_
 
 
-#### Audience
+### Audience
 
 
-##### Personas
+#### Personas
 
 
 <table>
@@ -119,30 +113,30 @@ _What deliverables or results can solve the problem statement?_
 
 
 
-#### Messaging
+### Messaging
 
 
-##### Focus Description
+#### Focus Description
 
 _Write a description of your product/launch/tool/content/etc._
 
 
-##### Short Positioning Statement
+#### Short Positioning Statement
 
 _Write a short (~25 words) positioning statement_
 
 
-##### Detailed positioning statement
+#### Detailed positioning statement
 
 _Write a detailed (100 words or less) positioning statement_
 
 
-##### Keywords
+#### Keywords
 
 _What keywords should be leveraged for metadata and SEO?_
 
 
-##### Value Proposition
+#### Value Proposition
 
 If this campaign is product or feature-focused, complete this section for easy talking points around the value of your product or feature.
 
@@ -192,7 +186,7 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-#### Risks
+### Risks
 
 
 <table>
@@ -248,10 +242,10 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-### Goals
+## Goals
 
 
-#### Campaign Goals
+### Campaign Goals
 
 
 <table>
@@ -331,7 +325,7 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-#### Associated Company or Team Goals
+### Associated Company or Team Goals
 
 
 <table>
@@ -411,10 +405,10 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-### Resources
+## Resources
 
 
-#### Budget
+### Budget
 
 
 <table>
@@ -470,7 +464,7 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-#### People
+### People
 
 
 <table>
@@ -538,7 +532,7 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-#### Tooling
+### Tooling
 
 
 <table>
@@ -594,7 +588,7 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-#### Approvals
+### Approvals
 
 
 <table>
@@ -674,10 +668,10 @@ If this campaign is product or feature-focused, complete this section for easy t
 
 
 
-### Deliverables
+## Deliverables
 
 
-#### _Example_
+### _Example_
 
 **Webinar: DevRel Campaign—Ideation to Impact**
 
@@ -784,7 +778,7 @@ Metrics to track: Registrations / Attendees / Downloads from Webinar \
 
 
 
-##### Deliverable Details
+#### Deliverable Details
 
 For each deliverable, you need to pull together the following details:
 
@@ -799,7 +793,7 @@ For each deliverable, you need to pull together the following details:
 * Metrics to track
 
 
-#### Milestones & Deadlines
+### Milestones & Deadlines
 
 
 <table>
@@ -880,10 +874,10 @@ LinkedIn</em>
 
 
 
-### Tracking Impact
+## Tracking Impact
 
 
-#### Campaign Goal Impact
+### Campaign Goal Impact
 
 
 <table>
@@ -965,7 +959,7 @@ LinkedIn</em>
 
 
 
-#### Company & Program Goal Impact
+### Company & Program Goal Impact
 
 
 <table>
@@ -1045,7 +1039,7 @@ LinkedIn</em>
 
 
 
-#### Campaign Results
+### Campaign Results
 
 
 <table>
@@ -1065,7 +1059,7 @@ LinkedIn</em>
 
 
 
-#### Program Results
+### Program Results
 
 
 <table>
