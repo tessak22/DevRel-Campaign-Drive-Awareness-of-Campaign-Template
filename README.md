@@ -232,93 +232,13 @@ If this campaign is product or feature-focused, complete this section for easy t
   </tr>
 </table>
 
-
-
 ## Goals
 
 
 ### Campaign Goals
+[See Airtable for Campaign Goals](https://airtable.com/shrzjtsn6CmABrytJ/tblQJUv6JoDQ6qTJU)
 
-
-<table>
-  <tr>
-   <td><strong>Objective</strong>
-   </td>
-   <td><strong>Key Result</strong>
-   </td>
-   <td><strong>Owner</strong>
-   </td>
-   <td><strong>Stakeholder</strong>
-   </td>
-   <td><strong>Status</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><em>What is the objective of the goal?</em>
-   </td>
-   <td><em>KR’s should always have a measurable result</em>
-   </td>
-   <td><em>Who owns driving this goal forward?</em>
-   </td>
-   <td><em>Who are you working with, who do you need to be involved</em>
-   </td>
-   <td><em>What is the status of the project?</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Drive awareness of Devocate's free resources for DevRel professionals</em>
-   </td>
-   <td><em>KR1: Obtain 100 downloads of DevRel Campaign Strategy Template</em>
-   </td>
-   <td><em>Tessa Kriesel</em>
-   </td>
-   <td><em>Community</em>
-   </td>
-   <td><em>Not Started</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-### Associated Company or Team Goals
-
+### Company Goals
 
 <table>
   <tr>
@@ -334,63 +254,15 @@ If this campaign is product or feature-focused, complete this section for easy t
    </td>
   </tr>
   <tr>
-   <td><em>What is the objective of the goal?</em>
+   <td><em>Increase revenue to bootstrap product building</em>
    </td>
-   <td><em>KR’s should always have a measurable result</em>
-   </td>
-   <td><em>Who owns driving this goal forward?</em>
-   </td>
-   <td><em>Who are you working with, who do you need to be involved?</em>
-   </td>
-   <td><em>What is the status of the project?</em>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Drive awareness of learning offerings</em>
-   </td>
-   <td><em>KR1: Obtain 300 users registered in LMS by March 31</em>
+   <td><em>KR1: Launch Devocate Learn to increase Devocate's revenue</em>
    </td>
    <td><em>Tessa Kriesel</em>
    </td>
-   <td><em>Community</em>
+   <td><em>Leadership</em>
    </td>
    <td><em>In Progress</em>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
   </tr>
 </table>
