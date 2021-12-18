@@ -88,25 +88,17 @@ _What deliverables or results can solve the problem statement?_
   <tr>
    <td>1
    </td>
-   <td><em>Persona title linked to persona resource</em>
+   <td><a href="https://airtable.com/appj1RtXAReaNkFRE/tblNKAwSn401IDbfT/viwsRiTfvBTzqSWhr/recCjbeWERNauWj1K?blocks=hide">DevRel Professionals</a>
    </td>
-   <td>34%
+   <td>75%
    </td>
   </tr>
   <tr>
    <td>2
    </td>
-   <td><em>Persona title linked to persona resource</em>
+   <td><a href="https://airtable.com/appj1RtXAReaNkFRE/tblNKAwSn401IDbfT/viwsRiTfvBTzqSWhr/rec3n0W3HK4BL4N3H?blocks=hide">Prospective DevRel's</a>
    </td>
-   <td>33%
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td><em>Persona title linked to persona resource</em>
-   </td>
-   <td>33%
+   <td>25%
    </td>
   </tr>
 </table>
